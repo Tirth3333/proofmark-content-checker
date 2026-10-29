@@ -1,0 +1,23 @@
+{
+  "_note": "DEMONSTRATION CONTENT. TaskNest is a fictional product. All statistics in demo_article.md are invented to exercise the checker and must not be treated as facts.",
+  "intent": {
+    "primary_keyword": "project management software",
+    "secondary_keywords": ["free plan", "integrations", "small team"],
+    "audience": "founders and team leads at companies with 5-20 people",
+    "search_intent": "commercial",
+    "page_type": "blog_post",
+    "objective": "Get readers to start a free TaskNest trial",
+    "internal_links": [
+      { "url": "/pricing", "anchor": "Pricing" },
+      { "url": "/integrations/email", "anchor": "email digest" }
+    ]
+  },
+  "brand": {
+    "guidelines": "Write like a calm, knowledgeable colleague.\nAvoid: synergy, rockstar, ninja\nNever use \"awesome\"",
+    "tone": "confident",
+    "preferred_terms": "use customers instead of clients\nteam members -> teammates",
+    "avoid_terms": ["totally"],
+    "example_content": "You don't need a complicated system to keep work moving. Start with a shared list of tasks, give each one an owner and a date, and review it together on Mondays. When something slips, you'll see it early. That's the whole point: fewer surprises, calmer weeks, and work you can actually finish. We built TaskNest so you can set this up in an afternoon.",
+    "forbid_unsupported_claims": true
+  }
+}
